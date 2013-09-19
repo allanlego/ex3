@@ -1,0 +1,19 @@
+{
+   "name": "Son of Exercise 3",
+   "className": "CustomApp",
+   "server": "https://rally1.rallydev.com",
+   "sdk": "2.0rc1",
+   "remote_javascript": [],
+   "javascript": [
+      "src/App.js"
+   ],
+   "remote_css": [],
+   "css": [
+      "styles/app.css"
+   ],
+   "parents": [
+      "ferentchak/RallyCertifiedDeveloperExercise1",
+      "ferentchak/RallyCertifiedDeveloperExercise2",
+      "RallyCommunity/RallyCertifiedDeveloperExercise3"
+   ]
+}
